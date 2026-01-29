@@ -5,10 +5,10 @@
 This project predicts customer churn using a Random Forest AI model and visualizes the results in a Power BI dashboard.
 
 ## Files
-- `churn_prediction.ipynb` → Python notebook with AI model, data cleaning, and feature importance  
-- `final_churn_predictions.csv` → Predicted churn probabilities for Power BI
--  `Customer_Churn_Analysis.pbix` → Power BI dashboard  
-- `README.md` → Project documentation
+- churn predction.ipynb → Python notebook with AI model, data cleaning, and feature importance  
+- final_churn_predictions.csv → Predicted churn probabilities for Power BI
+- Customer_Churn_Analysis.pbix → Power BI dashboard  
+- README.md → Project documentation
 
 ## Key Features
 - AI-driven churn prediction
